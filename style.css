@@ -21,7 +21,11 @@ h1 {
    color:#FAAAA3;
  }
 
- article {
+ #page2.html article {
+   background-color: #FAAAA3;
+   width: 300px;
+}
+#page2.html article {
    padding: 10px;
    margin: 50px 0px 10px 10px;
    border: 1px solid black;
